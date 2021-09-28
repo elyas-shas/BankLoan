@@ -8,3 +8,5 @@ Developing a predictive model to enables a financial institution the decide whet
 <ol>
   <li>Analyzed the data, clean it and prepared the data for machine learning modelling.
   <li>Develop several machine learning models, compare their performances and select the best model.
+
+<a href="https://github.com/elyas-shas/BankLoan/blob/main/BankLoan_v2.ipynb">Click here to view the nootbook</a>
