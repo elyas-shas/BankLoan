@@ -11,4 +11,4 @@ Developing a predictive model to enables a financial institution the decide whet
 </ol>
     
     
-<a href="https://github.com/elyas-shas/BankLoan/blob/main/BankLoan_v2.ipynb">Click here to view the nootbook</a>
+<a href="https://github.com/elyas-shas/BankLoan/blob/main/BankLoan_v2.ipynb">Click here to view the notebook</a>
