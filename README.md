@@ -1,5 +1,5 @@
 # BankLoan
-Developing a predictive model to enables a financial institution to decide whether a loan will be paid off.
+Developing a predictive model to enable a financial institution the decision whether a loan will be paid off.
 
 <h2>Objective:</h2>
 <ol>
